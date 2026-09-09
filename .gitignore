@@ -1,0 +1,17 @@
+# Scraped Airfoil Data & Datasets
+airfoiltools-data/
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv
+venv/
+ENV/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
